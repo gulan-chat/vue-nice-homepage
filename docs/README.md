@@ -1,25 +1,16 @@
 ---
 layout: Homepage
-description: 'The biography and information about me.'
-avatar: /profile.jpg
+description: '古兰智能-以人工智能为驱动的数字化服务平台.'
+avatar: gulan.png
 face: /kraken.jpg
-head: 'Hello Kraken'
-info: 'The kraken is a legendary'
-interests: 'The address of this project is here. If you are interested, please star. Thank you very much.'
+head: 'Gulan Chat'
+info: '语音交互机器人'
+interests: 'GulanAI-以人工智能为驱动的数字化服务平台.'
 socials:
 - title: github
-  link: https://github.com/nordicgiant2/vue-nice-homepage
-- title: linkedin
-  link: https://www.linkedin.com
-- title: instagram
-  link: https://www.instagram.com
-- title: email
-  link: 'mailto:harry[at]gmail.com'
-actions:
-- text: Projects
-  link: /projects/
-- text: Github
-  link: https://github.com/nordicgiant2/vue-nice-homepage
+  link: https://github.com/GulanAI/GulanChat.git
 ---
 
-The kraken is a legendary cephalopod-like sea monster of giant size in Scandinavian folklore. According to the Norse sagas, the kraken dwells off the coasts of Norway and Greenland and terrorizes nearby sailors. Authors over the years have postulated that the legend may have originated from sightings of giant squids that may grow to 13–15 meters in length. :dizzy:
+提供语音交互式 文字阅读，通过机器学习，达到人类自然语言 与 计算机 GulanAI的沟通。 目前为验证开发阶段，只做简单的语音交互，比如 语音 选取第几章 第几节，机器人返回具体的内容。 此文字版 验证后，增加音视频播放版本。
+
+欢迎人工智能专业小伙伴加入~~~~

@@ -1,19 +1,13 @@
 module.exports = {
-  title: "Hello Kraken",
+  title: "Hello GulanAI",
   description: "The description of the site.",
-  head: [["link", { rel: "icon", href: `/logo.png` }]],
+  head: [["link", { rel: "icon", href: `gulan.png` }]],
   dest: "./dist",
-  base: "/vue-nice-homepage-page/",
+  base: "/",
   themeConfig: {
     nav: [
-      { text: "Home", link: "/" },
-      { text: "Projects", link: "/projects/" },
-      { text: "Guide", link: "/guide/" },
-      { text: "GitHub", link: "https://github.com/nordicgiant2/vue-nice-homepage" }
+      { text: "Home", link: "/" }
     ],
-    sidebar: {
-      '/guide/': genSidebarConfig('Guide')
-    },
     lastUpdated: 'Last Updated'
   },
 
